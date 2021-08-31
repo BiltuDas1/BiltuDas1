@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm BiltuDas1, 17 years old guy like to Research About new things.
+Me not Pro into Everything, I Know only Batch, Bash, HTML, CSS, and little bit about Python.
+
 <!--
 **BiltuDas1/BiltuDas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
