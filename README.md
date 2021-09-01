@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm BiltuDas1, 17 years old guy like to Research About new things.
+I'm BiltuDas1, 17 years old guy who like to Research About new things.
 Me not Pro into Everything, I Know only Batch, Bash, HTML, CSS, and little bit about Python.
 
 <!--
