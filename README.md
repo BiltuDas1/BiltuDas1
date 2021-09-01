@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 I'm BiltuDas1, 17 years old guy who like to Research About new things.
-Me not Pro into Everything, I Know only Batch, Bash, HTML, CSS, and little bit about Python.
+Me not Pro into Everything, I Know only Batch, Bash, HTML, CSS, and little bit about Python.  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BiltuDas1&show_icons=true&theme=outrun)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiltuDas1&theme=outrun)
 
 <!--
 **BiltuDas1/BiltuDas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
