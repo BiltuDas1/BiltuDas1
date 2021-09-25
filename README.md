@@ -3,7 +3,7 @@
 I'm BiltuDas1, 17 years old guy who like to Research About new things.
 Me not Pro into Everything, I Know only Batch, Bash, HTML, CSS, and little bit about Python.  
 
-Currently Working with [https://github.com/STOPBACK/Setup-Windows-Privacy-Focused](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused)
+Currently Working with [https://github.com/STOPBACK/GetPrivacy](https://github.com/STOPBACK/GetPrivacy)
 
 If you want to Contact me then use Telegram: [https://telegram.me/BiltuDas1](https://telegram.me/BiltuDas1) 
 
