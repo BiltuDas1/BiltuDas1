@@ -7,9 +7,6 @@ Currently Working with [https://github.com/STOPBACK/GetPrivacy](https://github.c
 
 If you want to Contact me then use Telegram: [https://telegram.me/BiltuDas1](https://telegram.me/BiltuDas1) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BiltuDas1&show_icons=true&theme=outrun)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiltuDas1&theme=outrun)
-
 <!--
 **BiltuDas1/BiltuDas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
