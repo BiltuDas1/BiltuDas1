@@ -1,5 +1,6 @@
 ### Hi there 👋
-![BiltuDas1 GitHub stats](https://github-readme-stats.vercel.app/api?username=biltudas1)
+![BiltuDas1 GitHub stats](https://github-readme-stats.vercel.app/api?username=biltudas1)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biltudas1&theme=tokyonight)
 <!--
 **BiltuDas1/BiltuDas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
